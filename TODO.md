@@ -5,7 +5,7 @@
 ### Repository Setup
 - [x] Initialize Git repository
 - [x] Create GitHub remote repository
-- [ ] Configure GitHub Pages for deployment
+- [x] Configure GitHub Pages for deployment
 
 ### Site Foundation
 - [x] Create `css/style.css` — serif font, black-on-white, generous margins, responsive layout
@@ -28,15 +28,16 @@
 
 ### PDF Assets
 - [x] Create `pdf/` directory
-- [ ] Prepare `Tyrant_Excerpt.pdf` — 12 pages, cleanly formatted, name and contact info included
-- [ ] Verify PDF has no draft numbers or watermarks
+- [x] Prepare `Tyrant_Excerpt.pdf` — 12 pages, cleanly formatted, name and contact info included
+- [x] Verify PDF has no draft numbers or watermarks
 
 ### Domain & Deployment
-- [ ] Purchase/configure rakeshbaruah.com domain
-- [ ] Create `CNAME` file with domain
-- [ ] Configure DNS records pointing to GitHub Pages
-- [ ] Verify HTTPS is enabled
-- [ ] Test live deployment
+- [x] Purchase/configure rakeshbaruah.com domain
+- [x] Create `CNAME` file with domain
+- [x] Configure GitHub Pages on repository
+- [x] Configure DNS records pointing to GitHub Pages
+- [x] Verify HTTPS is enabled
+- [x] Test live deployment
 
 ### Quality Check
 - [ ] Review all copy against tone guidelines (no hype language, no promotional adjectives)

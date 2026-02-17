@@ -26,17 +26,24 @@
 | Add Tyrant description to homepage | 2026-02-17 |
 | Add Tyrant runtime (~2 hrs 10 min) and cast size (7–9 actors) | 2026-02-17 |
 | Add contact email to contact page | 2026-02-17 |
+| Create CNAME file for rakeshbaruah.com | 2026-02-17 |
+| Initial commit and push to GitHub | 2026-02-17 |
+| Enable GitHub Pages (main branch, legacy build) | 2026-02-17 |
+| Configure DNS records at Namecheap | 2026-02-17 |
+| Add Tyrant_Excerpt.pdf to pdf/ directory | 2026-02-17 |
+| DNS propagated and verified | 2026-02-17 |
+| HTTPS enforced on GitHub Pages | 2026-02-17 |
 
-**Total completed:** 18
+**Total completed:** 25
 
 ---
 
 ## Remaining
 
-### Repository Setup (2/3)
+### Repository Setup (3/3)
 - ~~Initialize Git repository~~
 - ~~Create GitHub remote repository~~
-- Configure GitHub Pages for deployment
+- ~~Configure GitHub Pages for deployment~~
 
 ### Site Foundation (3/3)
 - ~~Create stylesheet~~
@@ -57,17 +64,18 @@
 - Fiction thematic paragraph (deferred)
 - Fiction piece selections (deferred)
 
-### PDF Assets (1/3)
+### PDF Assets (3/3)
 - ~~Create pdf directory~~
-- Prepare Tyrant excerpt PDF
-- Verify PDF formatting
+- ~~Prepare Tyrant excerpt PDF~~
+- ~~Verify PDF formatting~~
 
-### Domain & Deployment (0/5)
-- Domain purchase/configuration
-- CNAME file
-- DNS configuration
-- HTTPS verification
-- Live deployment test
+### Domain & Deployment (6/6)
+- ~~Domain owned~~
+- ~~CNAME file created~~
+- ~~GitHub Pages enabled~~
+- ~~DNS configured at Namecheap~~
+- ~~HTTPS verified and enforced~~
+- ~~Live deployment tested~~
 
 ### Quality Check (0/6)
 - Copy review against tone guidelines
@@ -77,13 +85,13 @@
 - White space and typography review
 - Script request text verification
 
-**Total remaining:** 16
+**Total remaining:** 9
 
 ---
 
 ## Summary
 
 ```
-Completed: 18 / 34  [================----------------] 53%
-Remaining: 16 / 34
+Completed: 25 / 34  [================================] 74%
+Remaining:  9 / 34
 ```

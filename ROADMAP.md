@@ -70,14 +70,14 @@
 ### Milestone 6: Domain & Deployment
 > Take the site live.
 
-- [ ] Purchase or configure rakeshbaruah.com
-- [ ] Create `CNAME` file
-- [ ] Configure DNS to point to GitHub Pages
-- [ ] Enable GitHub Pages on repository
-- [ ] Verify HTTPS
-- [ ] Confirm auto-deploy on push to `main`
+- [x] Purchase or configure rakeshbaruah.com
+- [x] Create `CNAME` file
+- [x] Enable GitHub Pages on repository
+- [x] Confirm auto-deploy on push to `main`
+- [x] Configure DNS to point to GitHub Pages
+- [x] Verify HTTPS
 
-**Status:** Not started
+**Status:** Complete
 
 ---
 
@@ -114,6 +114,6 @@
 | 3 | Build All Pages | Complete |
 | 4 | Content & Copy | In progress |
 | 5 | PDF Assets | In progress |
-| 6 | Domain & Deployment | Not started |
+| 6 | Domain & Deployment | Complete |
 | 7 | Quality Assurance | Not started |
 | 8 | Launch | Not started |
