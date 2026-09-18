@@ -109,6 +109,10 @@ section h2 {
   margin-bottom: 2.5rem;
 }
 
+.compact-entry {
+  margin-bottom: 1.5rem;
+}
+
 .work-entry h3 {
   font-size: 1.2rem;
   font-style: italic;
@@ -150,6 +154,37 @@ a.download-link {
   text-decoration: underline;
 }
 
+/* CV */
+.cv-section {
+  margin-bottom: 2.75rem;
+}
+
+.cv-section h2 {
+  margin-bottom: 1.25rem;
+}
+
+.cv-entry {
+  margin-bottom: 1.4rem;
+}
+
+.cv-entry h3 {
+  font-size: 1rem;
+  font-style: italic;
+  margin-bottom: 0.15rem;
+}
+
+.cv-entry p {
+  margin-bottom: 0.45rem;
+}
+
+.cv-list {
+  padding-left: 1.2rem;
+}
+
+.cv-list li {
+  margin-bottom: 0.65rem;
+}
+
 /* Footer */
 .site-footer {
   margin-top: 4rem;
@@ -170,6 +205,8 @@ a.download-link {
   }
 
   nav a {
-    margin-right: 1.2rem;
+    display: inline-block;
+    margin-right: 1rem;
+    margin-bottom: 0.35rem;
   }
 }
